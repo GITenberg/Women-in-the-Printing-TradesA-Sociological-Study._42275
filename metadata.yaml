@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41610'
     url: http://www.gutenberg.org/2009/agents/41610
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42275#Women-in-the-Printing-TradesA-Sociological-Study.
 gutenberg_issued: '2013-03-08'
 gutenberg_type: Text
 identifiers:
