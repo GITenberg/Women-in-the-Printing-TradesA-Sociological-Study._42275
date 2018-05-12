@@ -1,0 +1,34 @@
+_repo: Women-in-the-Printing-TradesA-Sociological-Study._42275
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42275-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: MacDonald, James Ramsay
+    aliases:
+    - MacDonald, Ramsay
+    - MacDonald, J. Ramsay (James Ramsay)
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '41610'
+    url: http://www.gutenberg.org/2009/agents/41610
+description: ''
+gutenberg_issued: '2013-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42275'
+  lccn: 04030392
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcc 'HD'
+- !lcsh 'Working class women -- Great Britain'
+- !lcsh 'Printing industry -- Great Britain'
+- !lcsh 'Women -- Employment -- Great Britain'
+- !lcsh 'Women printers -- Great Britain'
+title: 'Women in the Printing Trades: A Sociological Study.'
+url: http://www.gutenberg.org/ebooks/42275
